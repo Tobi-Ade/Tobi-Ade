@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **ML Deployment**
 
-- 🌱 I’m currently learning **airflow**
+- 🌱 I’m currently learning **mlops**
 
 - 👯 I’m looking to collaborate on **ML and data science projects**
 
-- 💬 Ask me about **python, data science, model deployment**
+- 💬 Ask me about **python, data science, machine learning**
 
 - 📫 How to reach me **themarveloustobi@gmail.com**
 
