@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tobi 👋</h1>
 <h3 align="center">I am a passionate data scientist adept at utilizing data to solve problems and drive business growth through modelling, visualization, and statistical analysis.</h3>
 
-- 🔭 I’m currently working on **ML Deployment**
+- 🔭 I’m currently working on **Workflow Orchestration**
 
 - 🌱 I’m currently learning **mlops**
 
