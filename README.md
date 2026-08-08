@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **ML and data science projects**
 
-- 💬 Ask me about **python, backend engineering, data science, machine learning**
+- 💬 Ask me about **data science and, machine learning & Algos, and AI Engineering**
 
-- 📫 How to reach me **themarveloustobi@gmail.com**
+- 📫 How to reach me **gabriel-ade@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
